@@ -1,4 +1,4 @@
-package com.cacagdas.springtutorial.rest;
+package com.cacagdas.springtutorial.nonrest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

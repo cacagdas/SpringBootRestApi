@@ -1,4 +1,4 @@
-package com.cacagdas.springtutorial.rest;
+package com.cacagdas.springtutorial.nonrest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
